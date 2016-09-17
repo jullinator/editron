@@ -2,8 +2,6 @@
 
 ## Purpose
 
-Writing your own IDE editor app.
-It should provide the benefits of:
 - *Managing* files and folder IN-APP (viewing and searching)
 - source *Control* (rolling back)
 - *Documenting* your code. I.E. if using a function from different module => hover to view the functions [return type, purpose, input, comments]
@@ -14,6 +12,7 @@ It should provide the benefits of:
 - Fun *hobby*
 
 ## What the purpose is NOT:
+
 - Hjälpa till med *läkarstudierna*
 - Skapa ett eget *programmeringsspråk*
 - Tjäna *pengar*
